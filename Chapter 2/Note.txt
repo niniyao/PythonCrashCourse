@@ -1,3 +1,11 @@
 Today we finished the first chapter. We installed the Python interpreter 3.7, Visual studio code and we stored our work to github.
 In Chapter 2, we learned variables and the internal function print.
 We have finished page 20.
+Today we started on Naming and using variables:
+Python keywords on P489
+The Python variables should be lowercase at this moment.
+P57- A method is an action that Python can perform on a piece of data. 
+The dot (.) after name in name.title() tells Python to make the title() method act on 
+the variable name.
+We learned one type of variables which is strings and couple of methods to edit strings.
+My excersice got 99 out of 100 points in code review!
