@@ -9,3 +9,4 @@ The dot (.) after name in name.title() tells Python to make the title() method a
 the variable name.
 We learned one type of variables which is strings and couple of methods to edit strings.
 My excersice got 99 out of 100 points in code review!
+Today we finied on numbers, comments and the phylosophy of python,
