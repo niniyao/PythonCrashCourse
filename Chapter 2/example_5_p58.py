@@ -7,3 +7,8 @@ print("Hello, " + full_name.title() + "!")
 
 message = "Hello, " + full_name.title() + "!"
 print(message)
+
+message = 'jun lu'
+message = message.title()
+print(message)
+#比较.append, .insert的方法，关于返回值？
