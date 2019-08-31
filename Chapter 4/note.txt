@@ -1,0 +1,1 @@
+we started to learn for loop in list and identified common errors.
