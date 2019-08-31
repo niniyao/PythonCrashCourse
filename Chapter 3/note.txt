@@ -6,3 +6,7 @@ chaging,adding and removing elements.
  When you want to delete anitem from a list and not use that item 
  in any way, use the del statement; if you want to use an item 
  as you remove it, use the pop() method.
+Today we are learning 'organizing a list.'
+sort()methord, sorted()function 这个阶段work for lowercase并够用, 其他情况会比较复杂。
+reverse()methord
+finding the length of a list
