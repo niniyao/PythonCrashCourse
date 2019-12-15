@@ -10,3 +10,4 @@ the variable name.
 We learned one type of variables which is strings and couple of methods to edit strings.
 My excersice got 99 out of 100 points in code review!
 Today we finied on numbers, comments and the phylosophy of python,
+# + 号 前后 要类型一样， 变量 和 字符串拼接， 变量也许要是字符串类型的。

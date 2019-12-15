@@ -1,0 +1,9 @@
+# + 号 前后 要类型一样， 变 量 和 字符串拼接， 变量也许要是字符串类型的。
+3 types whitespace 1. " "  2. \n   3.\t 
+list 增删改查
+3🀄修改方式：
+    - del motorcycles   statement 声明式的修改
+    - motocycles.pop()   method 方法式的修改
+    - sorted(motorcycles) function 函数式的修改
+
+    
