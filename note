@@ -6,4 +6,10 @@ list 增删改查
     - motocycles.pop()   method 方法式的修改
     - sorted(motorcycles) function 函数式的修改
 
-    
+range(,) 创建一个list，  list[:] 在list里面切分区块。 都是包左不包右原则。不写数字，就顶头。
+我们学了
+    - Looping through an entire list
+    - Making numerical list
+    - Slicing a list
+    - Looping through a slice
+    - Copying a list 用slice的方式
