@@ -13,3 +13,41 @@ range(,) 创建一个list，  list[:] 在list里面切分区块。 都是包左�
     - Slicing a list
     - Looping through a slice
     - Copying a list 用slice的方式
+
+已学到的数据类型种类
+    - 第一种数据类型是变量：strings, numericals, Boolean. 
+      Boolean 是第三种veriable. 它只有ture 和false两种值。
+    - 第二种数据类型是list/tuple
+    - 第三种数据类型是dictionary
+
+第五章 if statement
+
+各种格式：
+
+第一个种是if格式:
+if conditional_test:
+    do something
+
+第二种格式if else statement
+if conditional_test:
+    do something
+else:
+    do something
+
+第三种格式 if-elif-else statement
+if conditional_test:
+    do something
+elif other_conditional_test:
+    do something 
+else:
+    do something
+# elif 可以有好几个，else可有可无
+  并且任何一个条件满足，就会跳过其他格式
+  结合遍历可以判断list的各个element
+
+# 检查一个list 是否为空的专有写法, e.g.
+if list_name:
+    print("This list is not empty.")
+else:
+    print("This list is empty.")
+
