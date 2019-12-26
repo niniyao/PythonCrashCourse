@@ -62,3 +62,7 @@ for key in user_0.keys()
     print()print("\nkey:" + key)
 
 也可以只遍历打印values
+
+Chapter 7
+# The while loop runs as long as the list is not empty. 要等list里面没东西 才会跳出来。
+# A for loop is effective for looping through a list, you shouldn't modify a list inside a for loop because Python will have trouble keeping track of the items in the list.
